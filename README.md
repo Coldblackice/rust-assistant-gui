@@ -1,4 +1,4 @@
-> **Warning**   
+> :red_circle: **Warning**   
 > This repo is in an alpha pre-release stage  
 > Not everything is working as expected
 
@@ -9,6 +9,6 @@ The tool displays combat logs in a user-friendly interface with visual aids, mak
 
 
 
-> **Note**  
+> :large_blue_circle: **Note**  
 > Rust Assistant is fan-made and not affiliated with Facepunch.  
 > Facepunch and the Facepunch logo are trademarks of Facepunch Studios.
